@@ -1,0 +1,10 @@
+[package]
+name = "yac"
+description = "Awesome CLI tool coming soon.."
+version = "0.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/nicbytes/yac"
+repository = "https://github.com/nicbytes/yac"
+
+[dependencies]
